@@ -1,0 +1,57 @@
+#byName{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 48%;
+    float: left;
+}
+
+#byJob{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 48%;
+    float: left;
+}
+
+#search{
+    padding: 20px;
+    text-align: center;
+    background-color: lightgray; 
+    border: solid black 2px; 
+}
+
+#data-table {
+    margin: 0 auto;
+    width: 100%;
+}
+
+#name{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border: solid black 2px;
+    
+}
+
+#job{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border: solid black 2px;
+    
+}
+
+#email{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border: solid black 2px;
+}
+
+#info{
+    padding: 20px; 
+    text-align: center;
+    background-color: lightgray; 
+    border: solid black 2px; 
+}
+
+
